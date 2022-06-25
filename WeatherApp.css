@@ -1,0 +1,50 @@
+.sun, .night, .snowy, .cloudy, .partlycloudy, .foggy, .rainy{
+    display:none;
+}
+
+
+
+body{
+    text-align: center;
+    background-color: skyblue;
+}
+
+.location{
+    font-family: 'Times New Roman', 'Times', 'serif';
+    margin: auto;
+    font-size: 80px;
+    text-decoration: overline;
+    color: rgb(189, 47, 255);
+}
+
+.condition{
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightsalmon;
+}
+
+.temp{
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightcoral
+}
+
+.humidity{
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightslategrey;
+}
+
+.wind{
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightcyan;
+}
